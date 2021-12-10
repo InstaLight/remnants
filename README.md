@@ -1,8 +1,7 @@
 ## What is Remnants?
 
 [Remnants](https://github.com/InstaLight/remnants) is a very simple text based adventure game. The game follows a young boy who has just awoken from an awful nightmare. His soul has been split into six Remnants, and it is vital that they're all collected before the sun rises. 
-VGhpcyBnYW1lIGlzIG5vdCB3aGF0IGl0IHNlZW1zLiBUaGVyZSBpcyBtdWNoIG1vcmUgdGhlbiBtZWV0cyB0aGUgZXllLiBJdHMgdXAgdG8geW91IHRvIGZpbmQgdGhlIHRydXRoLiB0byBmaW5kIHRoZSByZWFsIGdhbWUuIGhhdmUgZnVuIDsp
-
+[//]:<VGhpcyBnYW1lIGlzIG5vdCB3aGF0IGl0IHNlZW1zLiBUaGVyZSBpcyBtdWNoIG1vcmUgdGhlbiBtZWV0cyB0aGUgZXllLiBJdHMgdXAgdG8geW91IHRvIGZpbmQgdGhlIHRydXRoLiB0byBmaW5kIHRoZSByZWFsIGdhbWUuIGhhdmUgZnVuIDsp> 
 ### Notes
 
 Here are some general notes for the game to keep in mind

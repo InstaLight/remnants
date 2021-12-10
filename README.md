@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## What is Remnants?
 
-You can use the [editor on GitHub](https://github.com/InstaLight/remnants/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Remnants](https://github.com/InstaLight/remnants) is a very simple text based adventure game. The game follows a young boy who has just awoken from an awful nightmare. His soul has been split into six Remnants, and it is vital that they're all collected before the sun rises. 
+VGhpcyBnYW1lIGlzIG5vdCB3aGF0IGl0IHNlZW1zLiBUaGVyZSBpcyBtdWNoIG1vcmUgdGhlbiBtZWV0cyB0aGUgZXllLiBJdHMgdXAgdG8geW91IHRvIGZpbmQgdGhlIHRydXRoLiB0byBmaW5kIHRoZSByZWFsIGdhbWUuIGhhdmUgZnVuIDsp
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Notes
 
-### Markdown
+Here are some general notes for the game to keep in mind
+  - This is not at all the final product. This is simply a proof of concept. While this alpha is contained (mainly) within a single python file, the full game will be developed in [Game Maker Studio](https://www.yoyogames.com/en/gamemaker)
+  - The zip file will contain three files:
+        - Remnant.py. This is the game itself.
+        - Important Info. As the name implies, this will contain important info such as how to run the game and just repeating some other things that are being said            here
+        - Notes and feeback. Any notes or feedback you have about Remnants, write in this file.
+  - Once you're finished with Remnants, going down the path you wish and finished writing all of your feedback, re-zip the file with the updated notes and feedback file and email it to me (patricksmith2022@lschs.org)
+  - SMALL CONTENT WARNING. This game will cover themes of depression and all of the effects that come with it. There will be audio logs hidden throughout the game that tell the true story of Remnants.
+  - This demo will take anywhere from 30 mins - 1 hour depending on what you do. This game does have multiple paths. If you chose to play through all of them (and the secrets hidden within them) then obviously it'll take longer to fully complete. I do hope you play through all the paths. Seriously. I've drawn so many diagrams for the different paths. Also the more you play the more feedback you'll have!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Release Date
 
-```markdown
-Syntax highlighted code block
+I'm planning to release the Remnants Alpha this holiday season, possibly on Christmas as a fun little gift. I have been working hard and consistantly (since I got the idea literally a few days ago) and I'd love to release it as a Christmas present. I will post on socials and update the site once its up, and you'll be able to find it on [the GitHub Page](https://github.com/InstaLight/remnants)
 
-# Header 1
-## Header 2
-### Header 3
+### Final Notes
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InstaLight/remnants/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I love storytelling. I think making games and videos are the best way to express this love. This game is inspired by games like FNAF and Inscryption, games with hidden stories that envoke joy whenever a new piece of the puzzle is found. This is a project I believe in and will stick with. I hope you stay along for the ride.
